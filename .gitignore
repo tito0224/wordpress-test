@@ -1,0 +1,5 @@
+wp-content/uploads/
+*.log
+wp-content/cache/
+wp-content/backups/
+sitemap.xml.gz
